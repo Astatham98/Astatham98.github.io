@@ -14,14 +14,17 @@
 }
 
 .nav-content .nav-logo {
-    height: 60px;
-    margin: auto;
+
 }
 
 .nav-logo {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.nav-logo{
+  margin-bottom: 20px;
 }
 
 .nav-logo img {
